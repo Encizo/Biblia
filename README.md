@@ -48,19 +48,25 @@ OPENAI_API_KEY=sua-chave-aqui
 
 📂 Estrutura de Diretórios
 
+## 📂 Estrutura de Diretórios
+
+## 📂 Estrutura de Diretórios
+
+```text
 lib/
 ├── models/
-│   └── book_model.dart
+│   ├── book_model.dart
 │   └── study_model.dart
 ├── pages/
-│   └── login_page.dart
-│   └── home_page.dart
-│   └── chapter_page.dart
+│   ├── login_page.dart
+│   ├── home_page.dart
+│   ├── chapter_page.dart
 │   └── library_page.dart
 ├── services/
-│   └── bible_api_service.dart
-│   └── firestore_service.dart
+│   ├── bible_api_service.dart
+│   ├── firestore_service.dart
 │   └── auth_service.dart
 ├── firebase_options.dart
 └── main.dart
+```
 
