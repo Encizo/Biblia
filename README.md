@@ -28,27 +28,24 @@ Aplicativo Flutter que permite ao usuário navegar pelos livros da Bíblia, sele
 ## ⚙️ Configuração do Projeto
 
 ### 1. Clone o repositório
+```bash
 
 git clone https://github.com/seu-usuario/biblia-estudos-app.git
-cd biblia-estudos-app
+
+```
 ### 2. Instale as dependências
-bash
-Copiar
-Editar
+
+```bash
+
 flutter pub get
+
+```
 
 ### 3. Configure variáveis de ambiente .env
 Crie um arquivo .env na raiz do projeto com a sua chave de API do OpenAI:
-
-ini
-Copiar
-Editar
 OPENAI_API_KEY=sua-chave-aqui
+
 ⚠️ Nunca comite esse arquivo no GitHub! Adicione .env ao seu .gitignore.
-
-📂 Estrutura de Diretórios
-
-## 📂 Estrutura de Diretórios
 
 ## 📂 Estrutura de Diretórios
 
