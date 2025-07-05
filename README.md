@@ -69,16 +69,16 @@ lib/
 
 ### 📱 Home_Page
 
-![Home](img/home.png)
+![Home](Img/home.png)
 
 ### 📱 Chapter_Page
 
-![Chapter](img/Chapter.png)
+![Chapter](Img/Chapter.png)
 
 ### 📱 Library_Page
 
-![Library](img/Library.png)
+![Library](Img/Library.png)
 
 ### 📱 Study_Page
 
-![Study](img/Study_page.png)
+![Study](Img/Study_page.png)
