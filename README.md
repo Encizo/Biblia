@@ -67,3 +67,18 @@ lib/
 └── main.dart
 ```
 
+### 📱 Home_Page
+
+![Home](img/home.png)
+
+### 📱 Chapter_Page
+
+![Chapter](img/Chapter.png)
+
+### 📱 Library_Page
+
+![Library](img/Library.png)
+
+### 📱 Study_Page
+
+![Study](img/Study_page.png)
