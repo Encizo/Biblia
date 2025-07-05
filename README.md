@@ -47,18 +47,19 @@ OPENAI_API_KEY=sua-chave-aqui
 ⚠️ Nunca comite esse arquivo no GitHub! Adicione .env ao seu .gitignore.
 
 📂 Estrutura de Diretórios
-css
-Copiar
-Editar
+
 lib/
+
 ├── models/
 │   └── book_model.dart
 │   └── study_model.dart
+
 ├── pages/
 │   └── login_page.dart
 │   └── home_page.dart
 │   └── chapter_page.dart
 │   └── library_page.dart
+
 ├── services/
 │   └── bible_api_service.dart
 │   └── firestore_service.dart
